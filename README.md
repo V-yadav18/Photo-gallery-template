@@ -1,6 +1,6 @@
 # Photo_gallery_template - Photography_website
 
-Welcome to the Photo Gallery Template project! This template is designed to provide a straightforward and lightweight solution for creating a beautiful photo gallery on your photography website using only HTML and CSS.
+Welcome to the Photo Gallery Template project! This template is designed to provide a straightforward and lightweight solution for creating a beautiful photo gallery on your photography website using only HTML and CSS. It allows you to showcase a collection of photos in an organized and visually appealing way.
 
 ## Features
 
